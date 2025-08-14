@@ -1,0 +1,3 @@
+league,total_transfer_no,total_transfer_price
+Ligue 1,2,240000000
+Premier League,2,150000000
